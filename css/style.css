@@ -441,6 +441,18 @@ input::placeholder {
     font-weight: 700;
 }
 
+.info-blog-img {
+    width: 609px;
+    height: 327px;
+    overflow: hidden;
+}
+
+.info-blog-img img {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: cover;
+}
+
 /* info end */
 
 /* line start */

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="47.1429cm" height="18.6034cm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 20303.47 8012.08"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <font id="FontID0" horiz-adv-x="776" font-variant="normal" style="fill-rule:nonzero" font-style="italic" font-weight="700">
+	<font-face 
+		font-family="a_Concepto">
+		<font-face-src>
+			<font-face-name name="a_Concepto BoldItalic"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="F" horiz-adv-x="663" d="M837 720l-50 -186 -376 0 -25 -93.9999 325 0 -41.0001 -152 -325 0 -77.0002 -288 -226 0 193 720 602 0z"/>
+   <glyph unicode="S" horiz-adv-x="745" d="M876 720l-50 -186 -426 0 -25 -93.9999 291 0c90.6665,0 136,-32.6666 136,-97.9998 0,-16.0001 -11.0001,-65 -33.0002,-147 -20,-73.3335 -47.3334,-124.167 -81.9998,-152.5 -34.6668,-28.3335 -89.6668,-42.5002 -165,-42.5002l-485 0 51.9998 195 460 0 25 92.9998 -291 0c-57.9998,0 -96.9998,8.66669 -117,26.0001 -14.6668,12.6666 -22.0002,32.6666 -22.0002,60 0,16.6669 12.0002,70 36.0001,160 18.6667,69.3335 46.0001,117.667 82.0002,145 35.9997,27.3334 90.3332,41.0001 163,41.0001l451 0z"/>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"a_Concepto";font-variant:normal;font-style:italic;font-weight:bold;src:url("#FontID0") format(svg)}
+    .fil1 {fill:#727272}
+    .fil0 {fill:#727272}
+    .fil2 {fill:#727272;fill-rule:nonzero}
+    .fnt0 {font-style:italic;font-weight:bold;font-size:11127.89px;font-family:'a_Concepto'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Слой_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2315074187344">
+   <text x="2699.15" y="8012.08"  class="fil0 fnt0">S</text>
+   <text x="10989.43" y="8012.08"  class="fil1 fnt0">F</text>
+   <path class="fil2" d="M3566.63 6819.76c30.29,152.78 67.78,303.03 112.11,450.39l-2585.69 131.5 2682.29 154.73c49.01,131.67 103.7,260.6 163.7,386.53l135.85 0 0 -1123.15 -508.27 0z"/>
+   <path class="fil2" d="M4860.78 2533.78c-27.7,111.97 -51.51,225.46 -71.26,340.34l-4789.52 151.17 4729.3 368.45c-5.37,87.2 -8.93,174.85 -9.69,263.18l264.69 0 0 -1123.15 -123.51 0z"/>
+   <path class="fil2" d="M4927.49 5978.25c-97.46,141.51 -187.51,288.49 -269.51,440.49l-2396.96 121.63 2269.98 131.46c-64.97,139.69 -123.39,283.02 -174.86,429.56l730.97 0 0 -1123.15 -159.61 0z"/>
+   <path class="fil2" d="M5985.45 775.64c-97.46,141.51 -187.5,288.5 -269.51,440.49l-2396.96 121.63 2269.98 131.46c-64.97,139.69 -123.39,283.02 -174.87,429.56l730.97 0 0 -1123.15 -159.61 0z"/>
+  </g>
+ </g>
+</svg>
